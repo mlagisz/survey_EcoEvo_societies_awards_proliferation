@@ -16,7 +16,9 @@ This project aims to collate information on awards given by international learne
 We expect that our findings will contribute to culture change fostering more equitable and open science.    
 
 ## 💎 Team  
-We have an diverse and open team of early- and mid-career researchers who are contributing to this project. We still accept new contributors from traditionally underrepresented and marginalised groups in research (please get in touch).
+We have an diverse and open team of early- and mid-career researchers who are contributing to this project. We warmly encourage contributors from traditionally underrepresented and marginalised groups in research.    
+
+Currently, the team is finalised and we no longer accept new contributors. Please get in touch if you are interested in contributing to our future projects.   
 
 ## 💛 Contributing  
 Overall, when you work with us:   
@@ -40,10 +42,10 @@ Overall, when you work with us:
 ![Tentative timeline](SORTEE2024_project_timeline.png)
 
 ## 🚉 Current status    
-EOIs and draft protocol.      
+Data collections.      
 
 ## 🚀 Protocol   
-Final protocol will be publicly archived on OSF at [LINK to be added].    
+Final protocol will be publicly archived on [OSF](https://osf.io/hxr58) under this [DOI](https://doi.org/10.17605/OSF.IO/HXR58).    
 
 ## 🚚 Supporting information 
 Supporting information will be publicly available at [LINK to be added].    
